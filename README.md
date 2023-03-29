@@ -7,8 +7,11 @@ This project aims to explore a dataset of biomedical voice measurements from 42 
 This project requires the following dependencies to be installed:
 
 pip install pandas
+
 pip install seaborn
+
 pip install matplotlib
+
 pip install scipy
 
 **Dataset**
