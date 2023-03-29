@@ -1,7 +1,9 @@
 ***Parkinson's Disease Telemonitoring Analysis***
+
 This project aims to explore a dataset of biomedical voice measurements from 42 individuals with early-stage Parkinson's disease who participated in a six-month trial of a telemonitoring device for remote symptom progression monitoring. The dataset contains 5,875 voice recordings with 26 attributes, including subject number, age, gender, time interval from baseline recruitment date, motor UPDRS, total UPDRS, and 16 biomedical voice measures.
 
 **Dependencies**
+
 This project requires the following dependencies to be installed:
 
 pip install pandas
@@ -10,6 +12,7 @@ pip install matplotlib
 pip install scipy
 
 **Dataset**
+
 The Parkinson's telemonitoring dataset was created by Athanasios Tsanas and Max Little of the University of Oxford, in collaboration with 10 medical centers in the US and Intel Corporation who developed the telemonitoring device to record the speech signals. The original study used a range of linear and nonlinear regression methods to predict the clinician's Parkinson's disease symptom score on the UPDRS scale.
 
 subject#: unique identifier of the participant who took part in the study.
